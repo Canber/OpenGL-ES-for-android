@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "OpenGL ES for Android",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/kbogla for more book information.
+-->
+<resources>
+
+    <string name="app_name">Taking the Next Step</string>
+    <string name="textureFilterChooser">Texture Filters</string>
+    <string name="chooseTextureFilter">Choose Texture Filter</string>
+    <string name="noAnisotropicFiltering">Your GPU does not support anisotropic filtering!</string>
+
+    <string-array name="filterChoices">
+        <item>Nearest neighbour</item>
+        <item>Bilinear</item>
+        <item>Bilinear mipmapping</item>
+        <item>Trilinear mipmapping</item>
+        <item>Anisotropic mipmapping</item>
+    </string-array>
+    
+    <string name="enableAa">Enable AA</string>
+    <string name="disableAa">Disable AA</string>
+
+</resources>
