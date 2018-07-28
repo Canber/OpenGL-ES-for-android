@@ -1,1 +1,4 @@
-OpenGL ES ±à³ÌÖ¸ÄÏµÚ¶ş°æ ÊéÖĞÔ´Âë²Î¿¼githubµØÖ·£ºhttps://github.com/danginsburg/opengles3-book
+OpenGL ES ç¼–ç¨‹æŒ‡å—ç¬¬äºŒç‰ˆ ä¹¦ä¸­æºç å‚è€ƒgithubåœ°å€ï¼šhttps://github.com/danginsburg/opengles3-book
+
+
+OpenGl ES ç¼–ç¨‹å®æˆ˜  æºç java + C++  https://github.com/learnopengles/Learn-OpenGLES-Tutorials
