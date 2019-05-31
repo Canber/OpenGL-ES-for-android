@@ -3,4 +3,5 @@
 
 * [OpenGLES 编程实战  java && C++](https://github.com/learnopengles/Learn-OpenGLES-Tutorials)  
 
-* [LearnOpenGL-CN 教程](https://github.com/JoeyDeVries/LearnOpenGL) https://github.com/LearnOpenGL-CN/LearnOpenGL-CN 
+* [LearnOpenGL-CN 教程](https://github.com/JoeyDeVries/LearnOpenGL) 
+    > 课程网址 ：https://github.com/LearnOpenGL-CN/LearnOpenGL-CN 
